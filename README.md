@@ -14,7 +14,7 @@
 - 👨‍🏫 **Terrizev** - Owner of [ANONYMOUS-MD](https://www.youtube.com/@Terrizev)
 - 🤖 Working on **ANONYMOUS-MD**, a Multi-Device WhatsApp Bot
 - 💻 Skilled in  **Web Development**, **Cybersecurity**, and **Bot Development**
-- 🎥 **YouTuber** at [Mr Unique Hacker](https://www.youtube.com/Terrizev) 
+- 🎥 **YouTuber** at [Terrizev](https://www.youtube.com/Terrizev) 
 - 🌱 Always learning new tech and building innovative projects
 
 ---
@@ -43,7 +43,7 @@
   <h2>🌟 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?Terrizev=Terrizev&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terrizev&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?Terrizev=Terrizev&theme=radical" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?Terrizev=Terrizev&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
