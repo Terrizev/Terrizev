@@ -1,90 +1,17 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=I+am+Terrizev;Bot+Developer;Web+Developer" alt="Typing SVG">
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm  Terri</h1>
+<h3 align="center">A passionate fullstack Developer from Uganda</h3>
 
-<h1 align="center">Welcome! Im Terrizev 👨‍🏫</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast | Bot Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Terrizev&label=Profile%20views&color=0e75b6&style=flat" alt="edgardmessias" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Terrizev" alt="edgardmessias" /></a> </p>
 
-### 🚀 About Me
 
-- 👨‍🏫 **Terrizev** - Owner of [ANONYMOUS-MD](https://www.youtube.com/@Terrizev)
-- 🤖 Working on **ANONYMOUS-MD**, a Multi-Device WhatsApp Bot
-- 💻 Skilled in  **Web Development**, **Cybersecurity**, and **Bot Development**
-- 🎥 **YouTuber** at [Terrizev](https://www.youtube.com/Terrizev) 
-- 🌱 Always learning new tech and building innovative projects
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <h2>🚀 Projects and Bots</h2>
-  <p>Check out some of the awesome projects and bots Im working on.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Terrizev&show_icons=true&locale=en&layout=compact" alt="Terrizev" /></p>
 
-  <a href="https://github.com/Terrizev/ANONYMOUS-MD" target="_blank">
-    <img src="https://img.shields.io/badge/Anonymous_Bot-Multi_Device_Whatsapp_Bot-green?style=for-the-badge&logo=whatsapp" alt="Anonymous Bot">
-  </a>
-  <br>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Terrizev&show_icons=true&locale=en" alt="Terrizev" /></p>
 
----
-
-### 🔧 Skills
-
-- **Full-Stack Web Development**
-- **Cybersecurity Enthusiast**
-- **Bot Developer**
-
----
-
-<div align="center">
-  <h2>🌟 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?Terrizev=Terrizev&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Terrizev=Terrizev&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Terrizev=Terrizev&layout=compact&theme=radical" alt="Most Used Languages">
-</div>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Activity Graph</h2>
-  <img src="https://activity-graph.herokuapp.com/graph?Terrizev=Terrizev&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div>
-
----
-
-### 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.youtube.com/@Terrizev" target="_blank"><img src="https://img.shields.io/badge/YouTube-ANONYMOUS-MD SUPPORT-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://t.me/anonymoumd" target="_blank"><img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="https://whatsapp.com/channel/0029Vb57ZHh7IUYcNttXEB3y" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Subscribe-brightgreen?style=for-the-badge&logo=whatsapp"></a>
-</p>
-
----
-
-<div align="center">
-  <h2>📈 GitHub Contributions</h2>
-  <img src="https://github-contribution-stats.vercel.app/api/?Terrizev=Terrizev" alt="GitHub Contributions">
-</div>
-
----
-
-### 🎥 Latest YouTube Videos
-
-<div align="center">
-  <a href="https://www.youtube.com/@Terrizev">
-    <img src="https://github-readme-youtube-stats.herokuapp.com/?Terrizev=Terrizev&theme=radical" alt="YouTube Stats">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h2>✨ Thanks for visiting my GitHub! ✨</h2>
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="300" alt="Thanks Gif">
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terrivez&" alt="Terrivez" /></p>
